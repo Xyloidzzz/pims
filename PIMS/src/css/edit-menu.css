@@ -1,0 +1,15 @@
+#main-btn {
+    -fx-background-color:  #2868C1;
+}
+
+#main-btn:hover {
+    -fx-background-color: #80B5E9;
+}
+
+#cancel {
+    -fx-background-color: RED;
+}
+
+#cancel:hover {
+    -fx-background-color: #FF7070;
+}
